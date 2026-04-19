@@ -1,6 +1,6 @@
 {
-  "version": "3.9.7",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.7/WypoSetup_3.9.7.exe",
-  "sha256": "ecd3a73fe1f50340469bc21c0832d8daa668af31fa572ee6fec594366a8705c7",
-  "release_notes": "Wersja 3.9.7."
+  "version": "3.9.7.1",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.7.1/WypoSetup_3.9.7.1.exe",
+  "sha256": "5e1008abd9ef7927269f737d74bde54b4841ea10692702bda119156cd049324b",
+  "release_notes": "Aktualizacja z aplikacji: uruchomienie instalatora bez cmd.exe (naprawa błędu „nie można odnaleźć”)."
 }
