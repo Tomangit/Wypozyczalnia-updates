@@ -1,5 +1,5 @@
 {
-  "version": "3.9.1",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.1/WypoSetup_3.9.1.exe",
-  "release_notes": "Wersja 3.9.1 — instalator z Release v3.9.1."
+  "version": "3.9.2",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.2/WypoSetup_3.9.2.exe",
+  "release_notes": "Polskie Tak/Nie; poprawka instalacji z poziomu programu (zamknięcie przed Inno, CloseApplications=force)."
 }
