@@ -1,6 +1,6 @@
 {
-  "version": "3.9.6",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.6/WypoSetup_3.9.6.exe",
-  "sha256": "8a66611b95fbaac641cd68a08bfc098aca3b0ac6d910a326f77147308efb983f",
-  "release_notes": "Naprawa uruchamiania instalatora po aktualizacji (cmd start z pustym tytułem w cudzysłowach)."
+  "version": "3.9.7",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.7/WypoSetup_3.9.7.exe",
+  "sha256": "ecd3a73fe1f50340469bc21c0832d8daa668af31fa572ee6fec594366a8705c7",
+  "release_notes": "Wersja 3.9.7."
 }
