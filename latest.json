@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8/WypoSetup_3.9.8.exe",
-  "sha256": "dec731804367727ea0f55942671a32025b33e2eb997de2a58175af7f707537ef",
-  "release_notes": "Po aktualizacji z aplikacji program uruchamia się ponownie (Inno: Run bez skipifsilent przy /SILENT)."
+  "version": "3.9.8.1",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.1/WypoSetup_3.9.8.1.exe",
+  "sha256": "e259e3b82e7ed936fe1e241399cba04e61fe462d76f76d353682aa366e95d53e",
+  "release_notes": "Wersja w splash: plik version.txt obok exe + kolejnosc odczytu. Pelna przebudowa dist (pyinstaller po usunieciu dist/main). Stary numer wynikal z cache _internal przy przyrostowym buildzie."
 }
