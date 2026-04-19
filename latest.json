@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8.12",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.12/WypoSetup_3.9.8.12.exe",
-  "sha256": "cd66dbceeeaaadd0e0b4f24b389e2f71fc7d4347152161e90b70f6e32409f538",
-  "release_notes": "Wersja 3.9.8.12."
+  "version": "3.9.8.13",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.13/WypoSetup_3.9.8.13.exe",
+  "sha256": "1de2d9a8684bca07a9baf2b8014e751f742c87fface0ced8bcf4c9521c0bbcd0",
+  "release_notes": "Splash: pełny pasek postępu od 0 do 100%."
 }
