@@ -1,5 +1,5 @@
 {
-  "version": "3.9.4",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.4/WypoSetup_3.9.4.exe",
-  "release_notes": "Instalator po aktualizacji: cmd start + /SILENT (widoczny postęp, naprawa po UAC)."
+  "version": "3.9.5",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.5/WypoSetup_3.9.5.exe",
+  "release_notes": "Wersja 3.9.5."
 }
