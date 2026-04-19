@@ -1,6 +1,6 @@
 {
-  "version": "3.9.7.5",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.7.5/WypoSetup_3.9.7.5.exe",
-  "sha256": "d9660ae3e6ba6ba8fb5a0d22263334bf3fd5eb6b05c097152bddcaa1b8cbca19",
-  "release_notes": "Wersja 3.9.7.5."
+  "version": "3.9.8",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8/WypoSetup_3.9.8.exe",
+  "sha256": "dec731804367727ea0f55942671a32025b33e2eb997de2a58175af7f707537ef",
+  "release_notes": "Po aktualizacji z aplikacji program uruchamia się ponownie (Inno: Run bez skipifsilent przy /SILENT)."
 }
