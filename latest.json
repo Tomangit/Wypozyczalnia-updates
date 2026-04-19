@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8.3",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.3/WypoSetup_3.9.8.3.exe",
-  "sha256": "386257b9c114763e5e9a26b92785859a9772fe0a297eb218bfa67a3db80ca181",
-  "release_notes": "Start: okno bledu nad splashem (StaysOnTop). Migracja PRAGMA user_version. PyInstaller hiddenimports db."
+  "version": "3.9.8.4",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.4/WypoSetup_3.9.8.4.exe",
+  "sha256": "b0bea3a4f5245c29de549a78c4672339cbd123d4132fe0893ebf96a956fae6a1",
+  "release_notes": "Naprawa startu zainstalowanej aplikacji (onedir): Qt plugins, cwd, sciezki wzgledem main.exe)."
 }
