@@ -1,5 +1,5 @@
 {
-  "version": "3.9.2",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.2/WypoSetup_3.9.2.exe",
-  "release_notes": "Polskie Tak/Nie; poprawka instalacji z poziomu programu (zamknięcie przed Inno, CloseApplications=force)."
+  "version": "3.9.3",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.3/WypoSetup_3.9.3.exe",
+  "release_notes": "Wypożyczenia: kolumna Sprzęt zawiera nazwę i numer seryjny."
 }
