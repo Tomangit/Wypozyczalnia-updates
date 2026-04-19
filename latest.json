@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8.2",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.2/WypoSetup_3.9.8.2.exe",
-  "sha256": "5abb0b37938c51b2d76f6855d051594a8c07a74f96982f3d192ae793eaafb794",
-  "release_notes": "Splash: pasek postępu od razu (bez animacji przed długim MainWindow — wcześniej widać było 0%)."
+  "version": "3.9.8.3",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.3/WypoSetup_3.9.8.3.exe",
+  "sha256": "386257b9c114763e5e9a26b92785859a9772fe0a297eb218bfa67a3db80ca181",
+  "release_notes": "Start: okno bledu nad splashem (StaysOnTop). Migracja PRAGMA user_version. PyInstaller hiddenimports db."
 }
