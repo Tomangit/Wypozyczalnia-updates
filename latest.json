@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8.1",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.1/WypoSetup_3.9.8.1.exe",
-  "sha256": "e259e3b82e7ed936fe1e241399cba04e61fe462d76f76d353682aa366e95d53e",
-  "release_notes": "Wersja w splash: plik version.txt obok exe + kolejnosc odczytu. Pelna przebudowa dist (pyinstaller po usunieciu dist/main). Stary numer wynikal z cache _internal przy przyrostowym buildzie."
+  "version": "3.9.8.2",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.2/WypoSetup_3.9.8.2.exe",
+  "sha256": "5abb0b37938c51b2d76f6855d051594a8c07a74f96982f3d192ae793eaafb794",
+  "release_notes": "Splash: pasek postępu od razu (bez animacji przed długim MainWindow — wcześniej widać było 0%)."
 }
