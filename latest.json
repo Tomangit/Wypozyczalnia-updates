@@ -1,6 +1,6 @@
 {
-  "version": "3.9.8.13",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.8.13/WypoSetup_3.9.8.13.exe",
-  "sha256": "1de2d9a8684bca07a9baf2b8014e751f742c87fface0ced8bcf4c9521c0bbcd0",
-  "release_notes": "Splash: pełny pasek postępu od 0 do 100%."
+  "version": "3.9.9",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.9/WypoSetup_3.9.9.exe",
+  "sha256": "6901d279b006aeaf6648bd476e78b77479be8572e09cbb1a34e2e2d17d2a2dc9",
+  "release_notes": "Poprawki list rozwijanych, płynny splash 0-100 i stabilizacja formularza umowy."
 }
