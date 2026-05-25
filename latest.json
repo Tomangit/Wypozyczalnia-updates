@@ -1,6 +1,6 @@
 {
-  "version": "3.9.9",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.9/WypoSetup_3.9.9.exe",
-  "sha256": "6901d279b006aeaf6648bd476e78b77479be8572e09cbb1a34e2e2d17d2a2dc9",
-  "release_notes": "Poprawki list rozwijanych, płynny splash 0-100 i stabilizacja formularza umowy."
+    "version":  "3.9.10",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.10/WypoSetup_3.9.10.exe",
+    "sha256":  "c1cb2729f4ac61a58c0b3bf921545362624b607b3741f117e58b9e6ec210b8d6",
+    "release_notes":  "Poprawiono transfer sprzetu miedzy sklepami: plik transferu jest weryfikowany po utworzeniu, sprzet w sklepie zrodlowym otrzymuje status Przeniesiony, a import odtwarza sprzet w sklepie docelowym."
 }
