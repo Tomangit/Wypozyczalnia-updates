@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.10",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.10/WypoSetup_3.9.10.exe",
-    "sha256":  "c1cb2729f4ac61a58c0b3bf921545362624b607b3741f117e58b9e6ec210b8d6",
-    "release_notes":  "Poprawiono transfer sprzetu miedzy sklepami: plik transferu jest weryfikowany po utworzeniu, sprzet w sklepie zrodlowym otrzymuje status Przeniesiony, a import odtwarza sprzet w sklepie docelowym."
+    "version":  "3.9.11",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.11/WypoSetup_3.9.11.exe",
+    "sha256":  "007d1120826e21dc8082d1fcb57ffa86383fb60fd58af1cee86a42e4916d694a",
+    "release_notes":  "Poprawki UI i transferow: nowoczesny wyglad filtrow, zaawansowany wybor sprzetu do transferu, import z folderu TRANSFERY, status Przeniesiony z nazwa sklepu docelowego, status Wypozyczony z imieniem i nazwiskiem pacjenta oraz zmiana kolejnosci pola nr dowodu w formularzu pacjenta."
 }
