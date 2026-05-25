@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.14",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.14/WypoSetup_3.9.14.exe",
-    "sha256":  "c3062e6d92509111d8966dccb2798f916b98879d18b0e4f835fe5181071517d3",
-    "release_notes":  "Poprawki okien dashboardu i wypozyczen: Niezaplacone wypozyczenia pokazuje tylko aktywne umowy po terminie, Enter w filtrach nie uruchamia eksportu, a okna Historia zakupow, Historia sprzedazy, Statystyki sprzetu i Nadchodzace zwroty maja spojny nowoczesny wyglad."
+    "version":  "3.9.15",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.15/WypoSetup_3.9.15.exe",
+    "sha256":  "b5e442f9233af094040cae34d1e7882862a1ecb171c7b597fe6a3cc03dc345d6",
+    "release_notes":  "Wersja 3.9.15 zawiera ostatnie poprawki interfejsu i logiki: przycisk Administracja przeniesiony do naglowka, Kopie zapasowe oznaczone jako mniej wazne, poprawione przyciski akcji w tabelach Nadchodzace zwroty i Lista dokumentow, uporzadkowane panele dashboardowe oraz poprawki dat i kolumn w oknach wypozyczen."
 }
