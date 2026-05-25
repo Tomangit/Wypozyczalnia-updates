@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.12",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.12/WypoSetup_3.9.12.exe",
-    "sha256":  "f7e202de06c60152ab31657ca973ade171609b6dbc77ee8f8e14513f39cc697f",
-    "release_notes":  "Poprawki wizualne i uzytkowe: dopracowane listy rozwijane bez bialych paskow, wyrazniejsze ramki i separatory rekordow, nizsze pozycje list, poprawiony wyglad okien dialogowych, statystyk i formularza dodawania/edycji sprzetu."
+    "version":  "3.9.13",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.13/WypoSetup_3.9.13.exe",
+    "sha256":  "a5bd7b1ca36992f97fc6dea029ce325205246d28df9132ca1ccc2ccd438b5415",
+    "release_notes":  "Poprawka instalowanej wersji: ikony strzalek gora/dol oraz kalendarza sa poprawnie pakowane i widoczne po instalacji. Poprawiono tez wyglad okna Niezaplacone wypozyczenia oraz dodano podsumowanie liczby wypozyczen i sumy naleznosci."
 }
