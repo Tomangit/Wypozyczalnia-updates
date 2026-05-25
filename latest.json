@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.16",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.16/WypoSetup_3.9.16.exe",
-    "sha256":  "2fd77fe88ce26f32e49f1a77ecbca3d543116056306bd328b9bd03af3adff27c",
-    "release_notes":  "Wersja 3.9.16 naprawia eksport PDF w oknie Niezaplacone wypozyczenia. Raport generuje sie teraz w ukladzie poziomym, ma dopasowane szerokosci kolumn, mniejsze marginesy i zawijanie tekstu, dzieki czemu tabela nie ucina sie po prawej stronie."
+    "version":  "3.9.17",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.17/WypoSetup_3.9.17.exe",
+    "sha256":  "ce281ad3620a9ebef212963068a11b0e1f482ab55f9c7ecda73c616dc213f460",
+    "release_notes":  "Wersja 3.9.17 zmienia w oknie Nadchodzace zwroty kolumne Sklep na Nr telefonu. Eksport CSV i PDF z tego okna rowniez zawiera teraz numer telefonu klienta zamiast nazwy sklepu."
 }
