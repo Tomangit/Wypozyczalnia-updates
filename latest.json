@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.13",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.13/WypoSetup_3.9.13.exe",
-    "sha256":  "a5bd7b1ca36992f97fc6dea029ce325205246d28df9132ca1ccc2ccd438b5415",
-    "release_notes":  "Poprawka instalowanej wersji: ikony strzalek gora/dol oraz kalendarza sa poprawnie pakowane i widoczne po instalacji. Poprawiono tez wyglad okna Niezaplacone wypozyczenia oraz dodano podsumowanie liczby wypozyczen i sumy naleznosci."
+    "version":  "3.9.14",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.14/WypoSetup_3.9.14.exe",
+    "sha256":  "c3062e6d92509111d8966dccb2798f916b98879d18b0e4f835fe5181071517d3",
+    "release_notes":  "Poprawki okien dashboardu i wypozyczen: Niezaplacone wypozyczenia pokazuje tylko aktywne umowy po terminie, Enter w filtrach nie uruchamia eksportu, a okna Historia zakupow, Historia sprzedazy, Statystyki sprzetu i Nadchodzace zwroty maja spojny nowoczesny wyglad."
 }
