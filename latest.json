@@ -1,6 +1,6 @@
 {
-  "version": "3.9.19",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.19/WypoSetup_3.9.19.exe",
-  "sha256": "9acda73870b38a5b96f5b7cf34b622b5baec3d1516b74a3bff8a4bc8028d9652",
-  "release_notes": "Wersja 3.9.19: naprawione sprawdzanie aktualizacji. Zawiera statystyki na koniec miesiaca oraz walidacje telefonu +48 (z wersji 3.9.18)."
+  "version": "3.9.20",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.20/WypoSetup_3.9.20.exe",
+  "sha256": "295c6a6e2ef7a9128c5f37e5ce1df1f272a1a79030e39e1d99c7703564651d24",
+  "release_notes": "Wersja 3.9.20: eksport PDF i Excel w statystykach na koniec miesiaca (listy umow zawartych i zakonczonych)."
 }
