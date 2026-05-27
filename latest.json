@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.17",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.17/WypoSetup_3.9.17.exe",
-    "sha256":  "ce281ad3620a9ebef212963068a11b0e1f482ab55f9c7ecda73c616dc213f460",
-    "release_notes":  "Wersja 3.9.17 zmienia w oknie Nadchodzace zwroty kolumne Sklep na Nr telefonu. Eksport CSV i PDF z tego okna rowniez zawiera teraz numer telefonu klienta zamiast nazwy sklepu."
+  "version": "3.9.18",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.18/WypoSetup_3.9.18.exe",
+  "sha256": "00f66df01e1e5fe60436d5c87f43c114f47c4dd8cc3d6026fd700b76f9e0c72e",
+  "release_notes": "Wersja 3.9.18: statystyki na koniec miesiaca (umowy zawarte i zakonczone), walidacja telefonu +48 (9 cyfr), przy nowym pacjencie sugerowany prefiks +48 ."
 }
