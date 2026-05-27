@@ -1,6 +1,6 @@
 {
-  "version": "3.9.18",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.18/WypoSetup_3.9.18.exe",
-  "sha256": "00f66df01e1e5fe60436d5c87f43c114f47c4dd8cc3d6026fd700b76f9e0c72e",
-  "release_notes": "Wersja 3.9.18: statystyki na koniec miesiaca (umowy zawarte i zakonczone), walidacja telefonu +48 (9 cyfr), przy nowym pacjencie sugerowany prefiks +48 ."
+  "version": "3.9.19",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.19/WypoSetup_3.9.19.exe",
+  "sha256": "9acda73870b38a5b96f5b7cf34b622b5baec3d1516b74a3bff8a4bc8028d9652",
+  "release_notes": "Wersja 3.9.19: naprawione sprawdzanie aktualizacji. Zawiera statystyki na koniec miesiaca oraz walidacje telefonu +48 (z wersji 3.9.18)."
 }
