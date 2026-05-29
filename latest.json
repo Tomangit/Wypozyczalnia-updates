@@ -1,6 +1,6 @@
 {
-  "version": "3.9.20",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.20/WypoSetup_3.9.20.exe",
-  "sha256": "295c6a6e2ef7a9128c5f37e5ce1df1f272a1a79030e39e1d99c7703564651d24",
-  "release_notes": "Wersja 3.9.20: eksport PDF i Excel w statystykach na koniec miesiaca (listy umow zawartych i zakonczonych)."
+  "version": "3.9.22",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.22/WypoSetup_3.9.22.exe",
+  "sha256": "86f78a144118108a252bd4e1d8591682b4883f30eb5d92838ef4626243d14e9a",
+  "release_notes": "Wersja 3.9.22: naprawa uruchamiania (zgodne PyQt6/Qt6), poprawka pobierania aktualizacji (SSL). Wymagana zamiast 3.9.21."
 }
