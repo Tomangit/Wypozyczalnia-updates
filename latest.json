@@ -1,6 +1,6 @@
 {
-  "version": "3.9.25",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.25/WypoSetup_3.9.25.exe",
-  "sha256": "0391244234ae45ef6c8765b593f08787d5577fb7dcc4574a12a8be880c137368",
-  "release_notes": "Wersja 3.9.25: poprawne wyświetlanie roku w kalendarzu. Zalecana zamiast 3.9.24."
+  "version": "3.9.26",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.26/WypoSetup_3.9.26.exe",
+  "sha256": "624827423c0eb0cb78b98159317a43aae7ad091cf87df2035294a65998bef912",
+  "release_notes": "Wersja 3.9.26: data złomowania, zestawienie złomowania w statystykach. Zalecana zamiast 3.9.25."
 }
