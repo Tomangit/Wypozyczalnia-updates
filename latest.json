@@ -1,6 +1,6 @@
 {
-  "version": "3.9.23",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.23/WypoSetup_3.9.23.exe",
-  "sha256": "0505eee7170960049d47b4db2bb847790686a3bf9d6fa355dac431cbb466b783",
-  "release_notes": "Wersja 3.9.23: edycja sprzętu — pole Status (sprzedany, zezłomowany); poprawki zapisu sprzedaży. Zalecana zamiast 3.9.22."
+  "version": "3.9.24",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.24/WypoSetup_3.9.24.exe",
+  "sha256": "8a192d09ffc94286fccf2e7d218aa2bbc0c89742ea47461325dd8fe44b8cb537",
+  "release_notes": "Wersja 3.9.24: naprawa układu edycji sprzętu (Sklep i Status widoczne). Zalecana zamiast 3.9.23."
 }
