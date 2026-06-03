@@ -1,6 +1,6 @@
 {
-  "version": "3.9.22",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.22/WypoSetup_3.9.22.exe",
-  "sha256": "86f78a144118108a252bd4e1d8591682b4883f30eb5d92838ef4626243d14e9a",
-  "release_notes": "Wersja 3.9.22: naprawa uruchamiania (zgodne PyQt6/Qt6), poprawka pobierania aktualizacji (SSL). Wymagana zamiast 3.9.21."
+  "version": "3.9.23",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.23/WypoSetup_3.9.23.exe",
+  "sha256": "0505eee7170960049d47b4db2bb847790686a3bf9d6fa355dac431cbb466b783",
+  "release_notes": "Wersja 3.9.23: edycja sprzętu — pole Status (sprzedany, zezłomowany); poprawki zapisu sprzedaży. Zalecana zamiast 3.9.22."
 }
