@@ -1,6 +1,6 @@
 {
-  "version": "3.9.24",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.24/WypoSetup_3.9.24.exe",
-  "sha256": "8a192d09ffc94286fccf2e7d218aa2bbc0c89742ea47461325dd8fe44b8cb537",
-  "release_notes": "Wersja 3.9.24: naprawa układu edycji sprzętu (Sklep i Status widoczne). Zalecana zamiast 3.9.23."
+  "version": "3.9.25",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.25/WypoSetup_3.9.25.exe",
+  "sha256": "0391244234ae45ef6c8765b593f08787d5577fb7dcc4574a12a8be880c137368",
+  "release_notes": "Wersja 3.9.25: poprawne wyświetlanie roku w kalendarzu. Zalecana zamiast 3.9.24."
 }
