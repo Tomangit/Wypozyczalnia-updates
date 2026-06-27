@@ -1,6 +1,6 @@
 {
-  "version": "3.9.28",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.28/WypoSetup_3.9.28.exe",
-  "sha256": "171e42ea49868a4823139dde7d0f67611760273a3c2f05317a03a1b4b3d06fa0",
-  "release_notes": "Wersja 3.9.28: naprawa uruchamiania po aktualizacji (brakujący moduł jinja2). Zalecana zamiast 3.9.27."
+  "version": "3.9.29",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.29/WypoSetup_3.9.29.exe",
+  "sha256": "302d9d3b4064aa203cd605493e57994d76fe32047fd8bdd27e087297766948dc",
+  "release_notes": "Wersja 3.9.29: naprawa uruchamiania po aktualizacji (brakujący matplotlib / wykresy statystyk). Zalecana zamiast 3.9.28."
 }
