@@ -1,6 +1,6 @@
 {
-  "version": "3.9.27",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.27/WypoSetup_3.9.27.exe",
-  "sha256": "42cab264a7ba0b8eed6d3838b21c92b6d677ff29c2bb47a8a1ccddcab23d867b",
-  "release_notes": "Wersja 3.9.27: naprawa przedłużania wypożyczenia przy umowie wieloproduktowej (np. dwie kule u jednego klienta). Zalecana zamiast 3.9.26."
+  "version": "3.9.28",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.28/WypoSetup_3.9.28.exe",
+  "sha256": "171e42ea49868a4823139dde7d0f67611760273a3c2f05317a03a1b4b3d06fa0",
+  "release_notes": "Wersja 3.9.28: naprawa uruchamiania po aktualizacji (brakujący moduł jinja2). Zalecana zamiast 3.9.27."
 }
