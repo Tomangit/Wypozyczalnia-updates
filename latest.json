@@ -1,6 +1,6 @@
 {
-  "version": "3.9.26",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.26/WypoSetup_3.9.26.exe",
-  "sha256": "624827423c0eb0cb78b98159317a43aae7ad091cf87df2035294a65998bef912",
-  "release_notes": "Wersja 3.9.26: data złomowania, zestawienie złomowania w statystykach. Zalecana zamiast 3.9.25."
+  "version": "3.9.27",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.27/WypoSetup_3.9.27.exe",
+  "sha256": "42cab264a7ba0b8eed6d3838b21c92b6d677ff29c2bb47a8a1ccddcab23d867b",
+  "release_notes": "Wersja 3.9.27: naprawa przedłużania wypożyczenia przy umowie wieloproduktowej (np. dwie kule u jednego klienta). Zalecana zamiast 3.9.26."
 }
