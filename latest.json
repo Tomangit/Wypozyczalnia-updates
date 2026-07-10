@@ -1,6 +1,6 @@
 {
-  "version": "3.9.31",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.31/WypoSetup_3.9.31.exe",
-  "sha256": "8683b4bd689796294b8168f917dbae0330a76debb83313cf1fb753e0e0d44bdf",
-  "release_notes": "Wersja 3.9.31: naprawa uruchamiania po instalacji (bĹ‚Ä…d SQLAlchemy KEY_INTEGER_ONLY). Zalecana zamiast 3.9.30."
+  "version": "3.9.32",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.32/WypoSetup_3.9.32.exe",
+  "sha256": "deb7dda335b3cac5358e9adb7492a246fde9145ea3b1bec51a895bc32ebc237d",
+  "release_notes": "Wersja 3.9.32: naprawa ceny w oknie Przedłuż wypożyczenie (stawka za 7/14/30 dni przedłużenia). Zalecana zamiast 3.9.31."
 }
