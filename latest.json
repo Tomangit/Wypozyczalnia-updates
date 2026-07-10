@@ -1,6 +1,6 @@
-{
-  "version": "3.9.29",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.29/WypoSetup_3.9.29.exe",
-  "sha256": "302d9d3b4064aa203cd605493e57994d76fe32047fd8bdd27e087297766948dc",
-  "release_notes": "Wersja 3.9.29: naprawa uruchamiania po aktualizacji (brakujący matplotlib / wykresy statystyk). Zalecana zamiast 3.9.28."
-}
+{
+  "version": "3.9.30",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.30/WypoSetup_3.9.30.exe",
+  "sha256": "521c8878e99802c35d54ec2cee8caaa90822c55aaef3c8814840142a17498513",
+  "release_notes": "Wersja 3.9.30: naprawa podsumowania wpĹ‚at w oknie â€žPrzedĹ‚uĹĽ wypoĹĽyczenieâ€ť â€” bilans zgodny z â€žEdytuj wypoĹĽyczenieâ€ť do momentu zapisu przedĹ‚uĹĽenia."
+}
