@@ -1,6 +1,6 @@
 {
-  "version": "3.9.30",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.30/WypoSetup_3.9.30.exe",
-  "sha256": "521c8878e99802c35d54ec2cee8caaa90822c55aaef3c8814840142a17498513",
-  "release_notes": "Wersja 3.9.30: naprawa podsumowania wpĹ‚at w oknie â€žPrzedĹ‚uĹĽ wypoĹĽyczenieâ€ť â€” bilans zgodny z â€žEdytuj wypoĹĽyczenieâ€ť do momentu zapisu przedĹ‚uĹĽenia."
+  "version": "3.9.31",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.31/WypoSetup_3.9.31.exe",
+  "sha256": "8683b4bd689796294b8168f917dbae0330a76debb83313cf1fb753e0e0d44bdf",
+  "release_notes": "Wersja 3.9.31: naprawa uruchamiania po instalacji (bĹ‚Ä…d SQLAlchemy KEY_INTEGER_ONLY). Zalecana zamiast 3.9.30."
 }
