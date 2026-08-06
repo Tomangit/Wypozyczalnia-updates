@@ -1,6 +1,6 @@
 {
-  "version": "3.9.33",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.33/WypoSetup_3.9.33.exe",
-  "sha256": "b82d3fd721290bd7784f4625e099a79cb87a1d98393e4ea60f876655321511d8",
-  "release_notes": "Wersja 3.9.33: numer umowy (zapis przed drukiem, rezerwacja numeru, naprawa edycji z Nadchodzacych zwrotow), tytul nowego wypozyczenia, lista kategorii/sprzetu."
+  "version": "3.9.34",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.34/WypoSetup_3.9.34.exe",
+  "sha256": "bb78a6743376fcd372ce8baebbd20240775dbb8e7c0ae895e504c2bf31e85ed9",
+  "release_notes": "Wersja 3.9.34: zapis+druk w jednym oknie, Drukuj umowe dopiero po zapisie, krotsza lista sprzetu bez ucinania."
 }
