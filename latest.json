@@ -1,6 +1,6 @@
 {
-  "version": "3.9.35",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.35/WypoSetup_3.9.35.exe",
-  "sha256": "f6b855d32fe7bb93e77b783e511437ecfb617b8571a44cf75729834c90c64206",
-  "release_notes": "Wersja 3.9.35: lista Pacjenci zapamietuje ostatnio wybranego pacjenta (LP) i sortowanie po zmianie zakladki i restarcie."
+  "version": "3.9.36",
+  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.36/WypoSetup_3.9.36.exe",
+  "sha256": "5a0cdb92f01a769706a2563944e3044e300f0f0f12f98fc18e48729ded4a8309",
+  "release_notes": "Wersja 3.9.36: przy zwrocie sprzętu informacja o niedopłacie. Gdy opłaty się zgadzają — brak dodatkowych opłat. Gdy pacjent zalega — czerwona kwota i potwierdzenie zwrotu."
 }
