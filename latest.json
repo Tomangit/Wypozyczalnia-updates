@@ -1,6 +1,6 @@
 {
-  "version": "3.9.36",
-  "url": "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.36/WypoSetup_3.9.36.exe",
-  "sha256": "5a0cdb92f01a769706a2563944e3044e300f0f0f12f98fc18e48729ded4a8309",
-  "release_notes": "Wersja 3.9.36: przy zwrocie sprzętu informacja o niedopłacie. Gdy opłaty się zgadzają — brak dodatkowych opłat. Gdy pacjent zalega — czerwona kwota i potwierdzenie zwrotu."
+    "version":  "3.9.37",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.37/WypoSetup_3.9.37.exe",
+    "sha256":  "9f6fba4dadeccaa1a83a9def9d9234483324d52eb7952e0549f765d60bf2f713",
+    "release_notes":  "Wersja 3.9.37: Lista wypożyczeń odświeża się po dodaniu umowy, bez ponownego uruchamiania programu. Przy zwrocie program zapisuje wypłatę kaucji. Niezapłacone wypożyczenia pokazują rzeczywistą niedopłatę, także za dni po terminie umowy. Daty w umowie zapisują się dopiero po kliknięciu Zapisz. Nagłówki kolumn na liście wypożyczeń nie są ucinane. Program wczytuje tylko otwartą zakładkę, więc start i zmiana sklepu są lżejsze."
 }
