@@ -1,6 +1,6 @@
 {
-    "version":  "3.9.37",
-    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.37/WypoSetup_3.9.37.exe",
-    "sha256":  "9f6fba4dadeccaa1a83a9def9d9234483324d52eb7952e0549f765d60bf2f713",
-    "release_notes":  "Wersja 3.9.37: Lista wypożyczeń odświeża się po dodaniu umowy, bez ponownego uruchamiania programu. Przy zwrocie program zapisuje wypłatę kaucji. Niezapłacone wypożyczenia pokazują rzeczywistą niedopłatę, także za dni po terminie umowy. Daty w umowie zapisują się dopiero po kliknięciu Zapisz. Nagłówki kolumn na liście wypożyczeń nie są ucinane. Program wczytuje tylko otwartą zakładkę, więc start i zmiana sklepu są lżejsze."
+    "version":  "3.9.38",
+    "url":  "https://github.com/Tomangit/Wypozyczalnia-updates/releases/download/v3.9.38/WypoSetup_3.9.38.exe",
+    "sha256":  "71727786586a1c9f2be324eed5ef40c7551fe3c6b30e2e9377fc7e2dfaa4c166",
+    "release_notes":  "Wersja 3.9.38: Należność liczy wybrane okresy: tydzień, 2 tygodnie albo miesiąc, zamiast przeliczać cały zakres dat na stawkę miesięczną.,Po terminie kolejne okresy liczą się tak jak ostatnie wypożyczenie: po miesiącu pełne miesiące, po 2 tygodniach co 14 dni."
 }
